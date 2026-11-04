@@ -2,5 +2,5 @@
 
 Outil en ligne de commande pour enregistrer des relevés de température.
 
-
+commande pour utiliser le script : chmod +x releve.sh 
 
